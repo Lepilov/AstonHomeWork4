@@ -1,3 +1,4 @@
+
 public class DeadLock {
     // Создаем два объекта-заглушки лок, которые потоки будут пытаться заблокировать
     public static final Object lock1 = new Object();
